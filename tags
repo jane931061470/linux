@@ -1,0 +1,236 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+BUF_12K	week12/code/test5.c	4;"	d	language:C	file:
+BUF_4K	week12/code/test5.c	2;"	d	language:C	file:
+BUF_8K	week12/code/test5.c	3;"	d	language:C	file:
+MSG	week12/code/week12-4.c	3;"	d	language:C	file:
+MSG	week13/code/13-9.c	7;"	d	language:C	file:
+MSG_END	week12/code/week12-4.c	4;"	d	language:C	file:
+NUM	week14/code/14-2-1.c	3;"	d	language:C	file:
+NUM	week14/code/test.c	3;"	d	language:C	file:
+NUM	week14/code/test2.c	3;"	d	language:C	file:
+NUM_THREADS	week14/code/14-2-2.c	3;"	d	language:C	file:
+NUM_THREADS	week14/code/14-2.c	47;"	d	language:C	file:
+NUM_THREADS	week14/code/test4.c	5;"	d	language:C	file:
+PROMPT	week13/code/13-2.c	3;"	d	language:C	file:
+PrintHello	week14/code/test4.c	/^void *PrintHello(void *threadarg)$/;"	f	language:C	signature:(void *threadarg)
+QUIT	week14/code/p13-4.c	/^enum command {QUIT=0,WORK \/*,...*\/};$/;"	e	language:C	enum:command	file:
+SIZE	week14/code/p13-3.c	3;"	d	language:C	file:
+SIZE	week7/code/main3.c	5;"	d	language:C	file:
+UNUMBER	week6/code/staticlib/test.c	3;"	d	language:C	file:
+WORK	week14/code/p13-4.c	/^enum command {QUIT=0,WORK \/*,...*\/};$/;"	e	language:C	enum:command	file:
+a	week14/code/14-3.c	/^int a[size],b[size];$/;"	v	language:C
+a	week14/code/p13-3.c	/^int a[SIZE],b[SIZE];$/;"	v	language:C
+a	week8/code/test4.c	/^int a;$/;"	v	language:C
+a	week8/code/yan2/main.c	/^int a;$/;"	v	language:C
+after_main	week10/code/1-5.c	/^static void  __attribute__((desstructor)) after_main()$/;"	f	language:C	file:
+b	week14/code/14-3.c	/^int a[size],b[size];$/;"	v	language:C
+b	week14/code/p13-3.c	/^int a[SIZE],b[SIZE];$/;"	v	language:C
+b	week8/code/test4.c	/^static int b=10;$/;"	v	language:C	file:
+b	week8/code/yan2/main.c	/^static int b=10;$/;"	v	language:C	file:
+bar	week10/code/1-3.c	/^void bar()$/;"	f	language:C
+befer_main	week9/code/test4.c	/^static void __attribute__((constructor)) befer_main(){$/;"	f	language:C	file:
+before_main	week10/code/1-5.c	/^static void  __attribute__((constructor)) before_main()$/;"	f	language:C	file:
+before_main	week9/code/test1.c	/^static void __attribute__((constructor)) before_main(){$/;"	f	language:C	file:
+before_main	week9/code/test3.c	/^static void __attribute__((constructor)) before_main(){$/;"	f	language:C	file:
+before_main	week9/test/test.c	/^static void __attribute__ ((constructor)) before_main(void)$/;"	f	language:C	file:	signature:(void)
+buf	week7/code/main1.c	/^char buf[] = {"write to stdout\\n"};$/;"	v	language:C
+callback1	week10/code/1-5.c	/^static  void callback1(){$/;"	f	language:C	file:
+callback1	week9/code/test1.c	/^static void callback1(){$/;"	f	language:C	file:
+callback1	week9/code/test3.c	/^static void callback1(){$/;"	f	language:C	file:
+callback1	week9/code/test4.c	/^static void callback1(){$/;"	f	language:C	file:
+callback2	week10/code/1-5.c	/^static  void callback2(){$/;"	f	language:C	file:
+callback2	week9/code/test1.c	/^static void callback2(){$/;"	f	language:C	file:
+callback2	week9/code/test3.c	/^static void callback2(){$/;"	f	language:C	file:
+callback2	week9/code/test4.c	/^static void callback2(){$/;"	f	language:C	file:
+callback3	week9/code/test1.c	/^static void callback3(){$/;"	f	language:C	file:
+callback3	week9/code/test3.c	/^static void callback3(){$/;"	f	language:C	file:
+callback3	week9/code/test4.c	/^static void callback3(){$/;"	f	language:C	file:
+check_error	week14/code/my.h	21;"	d	language:C++
+cmd	week14/code/p13-4.c	/^	enum command cmd;$/;"	m	language:C	struct:thread	typeref:enum:thread::command	file:
+command	week14/code/p13-4.c	/^enum command {QUIT=0,WORK \/*,...*\/};$/;"	g	language:C	file:
+count	week12/code/11-2.c	/^int count=0;$/;"	v	language:C
+ctrl_c	week13/code/13-2.c	/^void ctrl_c(signo){$/;"	f	language:C
+do_heavy_work	week12/code/week12-4.c	/^int do_heavy_work()$/;"	f	language:C
+foo	week10/code/1-3.c	/^void foo()$/;"	f	language:C
+foo	week14/code/14-4.c	/^void foo()$/;"	f	language:C
+foo	week14/code/test3.c	/^ void foo()$/;"	f	language:C
+fun	week13/code/13-6.c	/^void fun()$/;"	f	language:C
+fun	week14/code/14-2-1.c	/^void * fun(void *arg)$/;"	f	language:C	signature:(void *arg)
+fun	week14/code/14-5.c	/^void *fun(void *n)$/;"	f	language:C	signature:(void *n)
+fun	week14/code/14-6.c	/^int fun(void *d)$/;"	f	language:C	signature:(void *d)
+fun	week14/code/test.c	/^void fun(void *arg)$/;"	f	language:C	signature:(void *arg)
+fun	week14/code/test2.c	/^void fun(void *arg)$/;"	f	language:C	signature:(void *arg)
+fun1	week9/code/lonjum1.c	/^static void fun1(){$/;"	f	language:C	file:
+fun1	week9/code/lonjum2.c	/^static void fun1(int *a,int *b,int *c){$/;"	f	language:C	file:	signature:(int *a,int *b,int *c)
+fun2	week9/code/lonjum1.c	/^static void fun2(){$/;"	f	language:C	file:
+g	homew/text1.c	/^int g=10;$/;"	v	language:C
+g	week10/1-2.c	/^int g=10;$/;"	v	language:C
+g	week10/code/1-1.c	/^int g=10;$/;"	v	language:C
+g	week10/code/1-2.c	/^int g=999;$/;"	v	language:C
+g	week10/code/1-4.c	/^int g = 88;$/;"	v	language:C
+g	week10/code/1-6.c	/^int g=10;$/;"	v	language:C
+g	week10/code/1-7.c	/^int g=10;$/;"	v	language:C
+g_stack_env	week9/code/lonjum1.c	/^static jmp_buf g_stack_env;$/;"	v	language:C	file:
+g_stack_env	week9/code/lonjum2.c	/^static jmp_buf g_stack_env;$/;"	v	language:C	file:
+get_SIGINT	week13/code/13-3.c	/^static volatile sig_atomic_t get_SIGINT=0;$/;"	v	language:C	file:
+get_usr_cmd	week14/code/p13-4.c	/^enum command get_usr_cmd()$/;"	f	language:C
+globa	week7/code/main2.c	/^int globa = 4;$/;"	v	language:C
+globa	week7/code/simplefork.c	/^int globa = 4;$/;"	v	language:C
+global1	week9/code/test2.c	/^int global1=0;$/;"	v	language:C
+global2	week9/code/test2.c	/^int global2;$/;"	v	language:C
+handler	week13/code/13-3.c	/^void handler(int signo)$/;"	f	language:C	signature:(int signo)
+handler	week13/code/13-9.c	/^void handler(int signo)$/;"	f	language:C	signature:(int signo)
+hello	week14/code/14-2-2.c	/^void hello(void * t)$/;"	f	language:C	signature:(void * t)
+hello	week14/code/14-2.c	/^void hello(void * t)$/;"	f	language:C	signature:(void * t)
+hi	week14/code/14-2-2.c	/^void hi(void * t)$/;"	f	language:C	signature:(void * t)
+i	week14/code/14-4.c	/^int i=0;$/;"	v	language:C
+i	week14/code/14-6.c	/^int i=0;$/;"	v	language:C
+i	week14/code/test3.c	/^int i=0;$/;"	v	language:C
+info	week14/code/14-2-2.c	/^struct info$/;"	s	language:C	file:
+info	week14/code/14-2.c	/^struct info$/;"	s	language:C	file:
+init	week6/code/staticlib/base.c	/^void init(int *a,int n)$/;"	f	language:C	signature:(int *a,int n)
+init_daemom	week11/code/test6.c	/^void init_daemom(void){$/;"	f	language:C	signature:(void)
+init_daemon	week11/code/init.c	/^void init_daemon(void)$/;"	f	language:C	signature:(void)
+m	week14/code/14-5.c	/^	int m;$/;"	m	language:C	struct:sarg	file:
+main	homew/text1.c	/^int main()$/;"	f	language:C
+main	homew/textf.c	/^int main(){$/;"	f	language:C
+main	homew/textvf.c	/^int main(){$/;"	f	language:C
+main	week10/1-2.c	/^int main()$/;"	f	language:C
+main	week10/1-3.c	/^int main()$/;"	f	language:C
+main	week10/code/1-1.c	/^ int main()$/;"	f	language:C
+main	week10/code/1-2.c	/^int main(){$/;"	f	language:C
+main	week10/code/1-3.c	/^int main(int argc,char *argv[])$/;"	f	language:C	signature:(int argc,char *argv[])
+main	week10/code/1-4.c	/^int main(){$/;"	f	language:C
+main	week10/code/1-5.c	/^int main(){$/;"	f	language:C
+main	week10/code/1-6.c	/^int main(){$/;"	f	language:C
+main	week10/code/1-7.c	/^int main(){$/;"	f	language:C
+main	week10/code/_exittest1.c	/^int main(){$/;"	f	language:C
+main	week10/code/exittest1.c	/^int main(){$/;"	f	language:C
+main	week11/code/6-8.c	/^int main()$/;"	f	language:C
+main	week11/code/test1.c	/^int main(){$/;"	f	language:C
+main	week11/code/test2.c	/^int main(){$/;"	f	language:C
+main	week11/code/test3.c	/^int main(){$/;"	f	language:C
+main	week11/code/test4.c	/^int main(){$/;"	f	language:C
+main	week11/code/test5.c	/^int main(){$/;"	f	language:C
+main	week11/code/test6.c	/^int main(){$/;"	f	language:C
+main	week11/code/test7.c	/^int main(){$/;"	f	language:C
+main	week11/code/test8.c	/^int main(){$/;"	f	language:C
+main	week11/code/text1.c	/^int main()$/;"	f	language:C
+main	week11/code/text2.c	/^int main()$/;"	f	language:C
+main	week11/code/text3.c	/^int main()$/;"	f	language:C
+main	week12/code/11-1.c	/^int main()$/;"	f	language:C
+main	week12/code/11-2.c	/^int main()$/;"	f	language:C
+main	week12/code/11-4.c	/^int main()$/;"	f	language:C
+main	week12/code/test.c	/^int main(){$/;"	f	language:C
+main	week12/code/test4.c	/^int main()$/;"	f	language:C
+main	week12/code/test5.c	/^int main(void)$/;"	f	language:C	signature:(void)
+main	week12/code/week12-4.c	/^int main()$/;"	f	language:C
+main	week13/code/13-1.c	/^int main()$/;"	f	language:C
+main	week13/code/13-2.c	/^int main()$/;"	f	language:C
+main	week13/code/13-3.c	/^int main(int argc,char *argv[])$/;"	f	language:C	signature:(int argc,char *argv[])
+main	week13/code/13-4.c	/^int main(int argc,char *argv[])$/;"	f	language:C	signature:(int argc,char *argv[])
+main	week13/code/13-5.c	/^int main()$/;"	f	language:C
+main	week13/code/13-6.c	/^int main()$/;"	f	language:C
+main	week13/code/13-7.c	/^int main(int argc,char *argv[])$/;"	f	language:C	signature:(int argc,char *argv[])
+main	week13/code/13-8.c	/^int main()$/;"	f	language:C
+main	week13/code/13-9.c	/^int main(int argc,char*argv[])$/;"	f	language:C	signature:(int argc,char*argv[])
+main	week14/code/14-1-1.c	/^int main()$/;"	f	language:C
+main	week14/code/14-1-2.c	/^int main()$/;"	f	language:C
+main	week14/code/14-1.c	/^int main()$/;"	f	language:C
+main	week14/code/14-2-1.c	/^int main()$/;"	f	language:C
+main	week14/code/14-2-2.c	/^int main()$/;"	f	language:C
+main	week14/code/14-2.c	/^int main()$/;"	f	language:C
+main	week14/code/14-3.c	/^int main(void)$/;"	f	language:C	signature:(void)
+main	week14/code/14-4.c	/^int main()$/;"	f	language:C
+main	week14/code/14-5.c	/^int main()$/;"	f	language:C
+main	week14/code/14-6.c	/^int main()$/;"	f	language:C
+main	week14/code/p13-3.c	/^int main(void)$/;"	f	language:C	signature:(void)
+main	week14/code/p13-4.c	/^main(void)$/;"	f	language:C	signature:(void)
+main	week14/code/test.c	/^int main()$/;"	f	language:C
+main	week14/code/test2.c	/^int main()$/;"	f	language:C
+main	week14/code/test3.c	/^int main()$/;"	f	language:C
+main	week14/code/test4.c	/^int main(int argc,char *argv[])$/;"	f	language:C	signature:(int argc,char *argv[])
+main	week6/code/staticlib/test.c	/^int main()$/;"	f	language:C
+main	week7/code/jincheng.c	/^int main()$/;"	f	language:C
+main	week7/code/main1.c	/^int main()$/;"	f	language:C
+main	week7/code/main2.c	/^int main(void)$/;"	f	language:C	signature:(void)
+main	week7/code/main3.c	/^int main(int argc,char *argv[])$/;"	f	language:C	signature:(int argc,char *argv[])
+main	week8/code/test.c	/^int main()$/;"	f	language:C
+main	week8/code/test2.c	/^int main(int argc,char *argv[],char *env[]){$/;"	f	language:C	signature:(int argc,char *argv[],char *env[])
+main	week8/code/test3.c	/^ int main()    $/;"	f	language:C
+main	week8/code/test4.c	/^int main(int argc,char* argv[],char* envp[]){$/;"	f	language:C	signature:(int argc,char* argv[],char* envp[])
+main	week8/code/yan1/main.c	/^int main()    $/;"	f	language:C
+main	week8/code/yan2/main.c	/^int main(int argc,char* argv[],char* envp[])$/;"	f	language:C	signature:(int argc,char* argv[],char* envp[])
+main	week9/code/call.c	/^int main(){$/;"	f	language:C
+main	week9/code/call1.c	/^int main(){$/;"	f	language:C
+main	week9/code/call2.c	/^int main(){$/;"	f	language:C
+main	week9/code/lonjum1.c	/^int main(void){$/;"	f	language:C	signature:(void)
+main	week9/code/lonjum2.c	/^int main(void){$/;"	f	language:C	signature:(void)
+main	week9/code/memtest.c	/^int main(){$/;"	f	language:C
+main	week9/code/test.c	/^int main(int arge,char *argv[]){$/;"	f	language:C	signature:(int arge,char *argv[])
+main	week9/code/test1.c	/^int main()$/;"	f	language:C
+main	week9/code/test2.c	/^int main(){$/;"	f	language:C
+main	week9/code/test3.c	/^int main()$/;"	f	language:C
+main	week9/code/test4.c	/^int main(int argc,char *argv[])$/;"	f	language:C	signature:(int argc,char *argv[])
+main	week9/test/test.c	/^int main()$/;"	f	language:C
+main	week9/test1/caller1.c	/^int main()$/;"	f	language:C
+main	week9/test1/caller2.c	/^int main()$/;"	f	language:C
+main	week9/test1/test1.c	/^int main(int argc,char* argv[])$/;"	f	language:C	signature:(int argc,char* argv[])
+max	week6/code/staticlib/aoprand.c	/^int max(int* a,int n)$/;"	f	language:C	signature:(int* a,int n)
+max_fun	week14/code/14-3.c	/^void max_fun(int *arg)\/\/*arg不能是局部变量，只能是全局变量$/;"	f	language:C	signature:(int *arg)
+max_fun	week14/code/p13-3.c	/^void max_fun(int *arg)$/;"	f	language:C	signature:(int *arg)
+mem_double_free	week9/code/memtest.c	/^static void mem_double_free(void){$/;"	f	language:C	file:	signature:(void)
+mem_free_wild_pointer	week9/code/memtest.c	/^static void mem_free_wild_pointer(void){$/;"	f	language:C	file:	signature:(void)
+mem_leak1	week9/code/memtest.c	/^static void mem_leak1(void){$/;"	f	language:C	file:	signature:(void)
+mem_leak2	week9/code/memtest.c	/^static void mem_leak2(void){$/;"	f	language:C	file:	signature:(void)
+mem_overrun1	week9/code/memtest.c	/^static void mem_overrun1(void){$/;"	f	language:C	file:	signature:(void)
+mem_overrun2	week9/code/memtest.c	/^static void mem_overrun2(void){$/;"	f	language:C	file:	signature:(void)
+message	week14/code/test4.c	/^	char *message;$/;"	m	language:C	struct:thtead_data	file:
+message	week14/code/test4.c	/^char *message[NUM_THREADS];$/;"	v	language:C
+n	week14/code/14-2-2.c	/^	int n;$/;"	m	language:C	struct:info	file:
+n	week14/code/14-2.c	/^	int n;$/;"	m	language:C	struct:info	file:
+n	week14/code/14-5.c	/^	int n;$/;"	m	language:C	struct:sarg	file:
+no	week14/code/14-2-2.c	/^	int no;$/;"	m	language:C	struct:info	file:
+no	week14/code/14-2.c	/^	int no;$/;"	m	language:C	struct:info	file:
+no	week14/code/p13-4.c	/^	int no;$/;"	m	language:C	struct:thread	file:
+number	week13/code/13-9.c	/^static int number=0;$/;"	v	language:C	file:
+pr_exit	week11/code/test5.c	/^void pr_exit(int status,pid_t pid){$/;"	f	language:C	signature:(int status,pid_t pid)
+print	week8/code/test3.c	/^ void print(char *str,int p)    $/;"	f	language:C	signature:(char *str,int p)
+print	week8/code/yan1/main.c	/^ void print(char *str,int p)    $/;"	f	language:C	signature:(char *str,int p)
+prompt	week13/code/13-2.c	/^char *prompt=PROMPT;$/;"	v	language:C
+rarg	week14/code/14-5.c	/^struct rarg$/;"	s	language:C	file:
+rval	week14/code/14-2-2.c	/^struct rval$/;"	s	language:C	file:
+s	week14/code/14-5.c	/^	int s;\/\/和带回来$/;"	m	language:C	struct:rarg	file:
+sarg	week14/code/14-5.c	/^struct sarg$/;"	s	language:C	file:
+show	week6/code/staticlib/base.c	/^void show(int *a,int n)$/;"	f	language:C	signature:(int *a,int n)
+sig	week13/code/13-8.c	/^void sig(int signo,siginfo_t *info,void *context)$/;"	f	language:C	signature:(int signo,siginfo_t *info,void *context)
+sig_cnt	week13/code/13-3.c	/^static int sig_cnt[NSIG];$/;"	v	language:C	file:
+sig_cnt	week13/code/13-9.c	/^static int sig_cnt[NSIG];$/;"	v	language:C	file:
+sig_handler	week13/code/13-5.c	/^void sig_handler(int signo,signo_t *info,void *context)$/;"	f	language:C	signature:(int signo,signo_t *info,void *context)
+sighandler	week12/code/test4.c	/^void sighandler(int  signo)$/;"	f	language:C	signature:(int signo)
+signal_handler	week12/code/week12-4.c	/^void signal_handler(int signo)$/;"	f	language:C	signature:(int signo)
+sigorder	week13/code/13-9.c	/^int sigorder[128]={0};$/;"	v	language:C
+sigtoutine	week13/code/13-1.c	/^void sigtoutine(int dunno)$/;"	f	language:C	signature:(int dunno)
+size	week14/code/14-3.c	2;"	d	language:C	file:
+sum	week14/code/14-2-2.c	/^	int sum;$/;"	m	language:C	struct:rval	file:
+sum	week14/code/test4.c	/^	int sum;$/;"	m	language:C	struct:thtead_data	file:
+sum	week6/code/staticlib/aoprand.c	/^int sum(int *a,int n)$/;"	f	language:C	signature:(int *a,int n)
+t	week14/code/14-5.c	/^	long t;\/\/运算时间$/;"	m	language:C	struct:rarg	file:
+thread	week14/code/p13-4.c	/^struct thread{$/;"	s	language:C	file:
+thread_data_array	week14/code/test4.c	/^struct thread_data thread_data_array[NUM_THREADS];$/;"	v	language:C	typeref:struct:thread_data
+thread_func	week14/code/p13-4.c	/^void thread_func(struct thread *thread_p)$/;"	f	language:C	signature:(struct thread *thread_p)
+thread_id	week14/code/test4.c	/^	int thread_id;$/;"	m	language:C	struct:thtead_data	file:
+threadfun	week14/code/14-1-1.c	/^void * threadfun()$/;"	f	language:C
+threadfun	week14/code/14-1.c	/^void * threadfun(void *arg)$/;"	f	language:C	signature:(void *arg)
+thtead_data	week14/code/test4.c	/^struct thtead_data$/;"	s	language:C	file:
+tid	week14/code/14-2-2.c	/^	pthread_t tid;$/;"	m	language:C	struct:rval	file:
+usage	week13/code/13-4.c	/^void usage()$/;"	f	language:C
+usage	week13/code/13-7.c	/^void usage()$/;"	f	language:C
+worker	week14/code/14-1-2.c	/^void * worker(void *arg)$/;"	f	language:C	signature:(void *arg)
+x	week9/test1/test1.c	/^int x=100;$/;"	v	language:C
+zero	week11/code/test5.c	/^int zero=0;$/;"	v	language:C
